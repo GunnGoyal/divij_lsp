@@ -1,0 +1,7 @@
+www/vendor/
+www/writable/uploads/*
+!www/writable/uploads/.gitkeep
+www/writable/logs/*
+www/writable/cache/*
+www/writable/session/*
+.env
